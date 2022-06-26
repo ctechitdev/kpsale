@@ -1,0 +1,1 @@
+const checkUserPassword = "SELECT * FROM tbl_staff_user where user_names = $1 ";
